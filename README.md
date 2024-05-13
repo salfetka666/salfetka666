@@ -11,8 +11,9 @@
 - 📫 How to reach me: **no need**
 
 - ⚡ fun fact: The best Russian cover of the song [My Mind](https://www.youtube.com/watch?v=aZWWlqDy8nE)
+- 🙄 another interesting fact is that this is the whole project
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<https://www.instagram.com/amattore0/](https://www.instagram.com/amattore0/)/h3>
 <p align="left">
 <a href="https://instagram.com/?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="?" height="30" width="40" /></a>
 </p>
