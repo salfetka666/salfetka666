@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm bohdan</h1>
-<h3 align="center">A passionate frontend developer from Dubai</h3>https://i.gifer.com/origin/a1/a1ce1b6730ab5db41ce85cccf6b145a1_w200.gif
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salfetka666&label=Profile%20views&color=0e75b6&style=flat" alt="salfetka666" /> </p>
+<h3 align="center">A passionate frontend developer from my house
+<h3 align="center">there will be no photos because the site is shit and it won’t be inserted
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **CSE1210**
+- 🔭 I’m currently working on: **CSE1210**
 
-- 🌱 I’m currently learning **yea**
+- 🌱 I’m currently learning: **just project**
 
-- 📫 How to reach me **guzo1771@gmail.com**
+- 📫 How to reach me: **no need**
 
-- ⚡ Fun fact **I have an arcana for Pudge in dota**
+- ⚡ fun fact: The best Russian cover of the song "my mind": https://www.youtube.com/watch?v=aZWWlqDy8nE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
