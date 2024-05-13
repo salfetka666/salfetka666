@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **no need**
 
-- ⚡ fun fact: The best Russian cover of the song "my mind": https://www.youtube.com/watch?v=aZWWlqDy8nE
+- ⚡ fun fact: The best Russian cover of the song [My Mind](https://www.youtube.com/watch?v=aZWWlqDy8nE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
